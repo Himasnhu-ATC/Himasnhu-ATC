@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himasnhu-ATC (EDIT:- my name is Himanshu)
 - 👀 I’m interested in Robotics, AI
-- 📫 How to reach me:- email:- contact me by emailing on my email:- hyattherate2005@gmail.com
+- 📫 How to reach me:- email:- contact me by emailing on my email:- github.himanshu.you@gmail.com
 
 
  - All the content present on my github are cpopyrighted to ATC
